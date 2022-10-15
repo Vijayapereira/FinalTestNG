@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18901" started-at="2022-10-15T22:15:57Z" finished-at="2022-10-15T22:16:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18901" started-at="2022-10-15T22:15:57Z" finished-at="2022-10-15T22:16:16Z">
+      <class name="test.MonthListTest">
+        <test-method status="PASS" signature="runMonthListTest()[pri:0, instance:test.MonthListTest@56a6d5a6]" name="runMonthListTest" is-config="true" duration-ms="1798" started-at="2022-10-15T22:15:57Z" finished-at="2022-10-15T22:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMonthListTest -->
+        <test-method status="PASS" signature="dropDownShouldHaveAllMonths()[pri:0, instance:test.MonthListTest@56a6d5a6]" name="dropDownShouldHaveAllMonths" duration-ms="313" started-at="2022-10-15T22:15:59Z" finished-at="2022-10-15T22:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownShouldHaveAllMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.MonthListTest@56a6d5a6]" name="tearDown" is-config="true" duration-ms="16774" started-at="2022-10-15T22:15:59Z" finished-at="2022-10-15T22:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.MonthListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
